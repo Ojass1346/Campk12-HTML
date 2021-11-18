@@ -1,0 +1,36 @@
+
+
+
+form {
+margin-top: 225px;
+margin-left: 550px;
+width: 250px;
+padding: 100px;
+background-color: rgb(8, 136, 241);
+border-radius: 50px;
+/* justify-content: center; */
+}
+
+form label{
+    font-size: 20px;
+}
+
+form input{
+    width: 250px;
+    height: 30px;
+}
+
+.username {
+    margin-bottom: 10px;
+}
+
+.password {
+    margin-bottom: 10px;
+}
+
+form button{
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-color: springgreen;
+    border-color: springgreen;
+}

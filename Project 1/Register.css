@@ -1,0 +1,37 @@
+form{
+    background-color: rgb(243, 42, 7);
+    height: 200px;
+    width: 400px;
+    margin-top: 300px;
+    margin-left: 550px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    border-radius: 20px;
+}
+
+form h1{
+margin-left: 130px;
+font-style: italic;;
+}
+
+form label{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+form input{
+    margin-left: 10px;
+    width: 250px;
+    height: 25px;
+    
+}
+
+ form button{
+    margin-left: 130px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(21, 245, 58);
+    border-color: rgb(21, 245, 58);
+    width: 150px;
+    border-radius: 10px;
+}
