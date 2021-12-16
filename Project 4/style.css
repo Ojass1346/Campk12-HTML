@@ -51,3 +51,41 @@
     text-decoration: underline;
     color:red;
 }
+
+.lf img{
+    margin-left: 112px;
+    width: 90%;
+    height: 575px;
+}
+
+.rf{
+    background-color: #F0F0F8;
+    width:26%;
+}
+
+#t_1{
+ padding-top: 100px;
+}
+
+.rf i{
+    font-size: 30px;
+    color: red;
+}
+
+.rf a{
+    color: red;
+}
+
+.row{
+    margin-top: 100px;
+}
+
+.rf_2 ul li{
+    background-color: #F0F0F8;
+    width:400px;
+    height:150px;
+}
+
+.rf_2{
+    display:block;
+}
