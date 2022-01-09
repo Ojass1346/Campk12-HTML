@@ -81,11 +81,21 @@
 }
 
 .rf_2 ul li{
+    margin: 10px 0;
     background-color: #F0F0F8;
     width:400px;
     height:150px;
+    text-align: center;
 }
 
-.rf_2{
-    display:block;
+.rf_2 div{
+    float:left;
+}
+
+.rf_2 ul{
+    list-style-type: none;
+}
+
+.rf_2 ul li img{
+    margin-top: 55px;
 }
